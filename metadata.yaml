@@ -1,0 +1,27 @@
+_repo: Traffic-in-Souls--A-Novel-of-Crime-and-Its-Cure_29453
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ball, Eustace Hale
+    birthdate: 1881
+    deathdate: 1931
+    gutenberg_agent_id: '1836'
+    url: http://www.gutenberg.org/2009/agents/1836
+description: ''
+gutenberg_issued: '2009-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29453'
+  lccn: '14006987'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crime -- Fiction'
+- !lcc 'PS'
+title: 'Traffic in Souls: A Novel of Crime and Its Cure'
+url: http://www.gutenberg.org/ebooks/29453
